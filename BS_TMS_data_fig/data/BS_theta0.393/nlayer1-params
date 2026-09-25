@@ -1,0 +1,12 @@
+# Nlayers = 1, theta_target = 0.3927, cutoffA = 10, cutoffB = 2
+# F_e = 0.462740959308, branch weights = (0.991285, 0.008715)
+# BFGS: nit = 10, |grad| = 2.878e-06, message = Optimization terminated successfully.
+# layer   Re(betaA)   Im(betaA)   Re(betaB)   Im(betaB)   theta   phi
+    0   5.529815412235001e-07  -1.258169112913360e-06   1.952465003368629e-06   6.116888019642751e-06  -1.869823484153328e-01   1.239779380417308e-02
+
+# Layer 0
+#   betaA = (5.529815412235001e-07-1.2581691129133597e-06j)
+#   betaB = (1.9524650033686293e-06+6.116888019642751e-06j)
+#   theta = -0.18698234841533282
+#   phi   = 0.01239779380417308
+# 

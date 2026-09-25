@@ -1,0 +1,12 @@
+=== r = 0.4  (d_cav = 20, cutoffA = 10, cutoffB = 2, layer budget = 12) ===
+  Nlayers =  1   F_e = 0.44792578   cost = 5.521e-01   
+  Nlayers =  2   F_e = 0.44792578   cost = 5.521e-01   
+  Nlayers =  3   F_e = 0.44792578   cost = 5.521e-01   
+  Nlayers =  4   F_e = 0.70902082   cost = 2.910e-01   
+  Nlayers =  5   F_e = 0.94541480   cost = 5.459e-02   
+  Nlayers =  6   F_e = 0.99757695   cost = 2.423e-03   F>=0.99@6
+  Nlayers =  7   F_e = 0.99992739   cost = 7.261e-05   F>=0.99@6 F>=0.9999@7
+  best F_e = 0.99992739   branch weights = (0.5010, 0.4990)
+  layers for F_e >= 0.99    : 6
+  layers for F_e >= 0.9999  : 7
+  curves -> data/TMS_r0.400/

@@ -1,0 +1,7 @@
+# r        nlayers   (nan = threshold not reached within the layer budget)
+0.100         7
+0.200         6
+0.300         9
+0.400         7
+0.600         9
+0.800        12
